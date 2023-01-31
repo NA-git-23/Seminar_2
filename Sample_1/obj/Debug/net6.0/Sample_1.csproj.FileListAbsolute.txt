@@ -1,0 +1,15 @@
+/Users/na/Desktop/Seminar_2/Sample_1/bin/Debug/net6.0/Sample_1
+/Users/na/Desktop/Seminar_2/Sample_1/bin/Debug/net6.0/Sample_1.deps.json
+/Users/na/Desktop/Seminar_2/Sample_1/bin/Debug/net6.0/Sample_1.runtimeconfig.json
+/Users/na/Desktop/Seminar_2/Sample_1/bin/Debug/net6.0/Sample_1.dll
+/Users/na/Desktop/Seminar_2/Sample_1/bin/Debug/net6.0/Sample_1.pdb
+/Users/na/Desktop/Seminar_2/Sample_1/obj/Debug/net6.0/Sample_1.csproj.AssemblyReference.cache
+/Users/na/Desktop/Seminar_2/Sample_1/obj/Debug/net6.0/Sample_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/na/Desktop/Seminar_2/Sample_1/obj/Debug/net6.0/Sample_1.AssemblyInfoInputs.cache
+/Users/na/Desktop/Seminar_2/Sample_1/obj/Debug/net6.0/Sample_1.AssemblyInfo.cs
+/Users/na/Desktop/Seminar_2/Sample_1/obj/Debug/net6.0/Sample_1.csproj.CoreCompileInputs.cache
+/Users/na/Desktop/Seminar_2/Sample_1/obj/Debug/net6.0/Sample_1.dll
+/Users/na/Desktop/Seminar_2/Sample_1/obj/Debug/net6.0/refint/Sample_1.dll
+/Users/na/Desktop/Seminar_2/Sample_1/obj/Debug/net6.0/Sample_1.pdb
+/Users/na/Desktop/Seminar_2/Sample_1/obj/Debug/net6.0/Sample_1.genruntimeconfig.cache
+/Users/na/Desktop/Seminar_2/Sample_1/obj/Debug/net6.0/ref/Sample_1.dll
